@@ -1,0 +1,6 @@
+[submodule "STT_Lab9"]
+	path = STT_Lab9
+	url = https://github.com/Kishan-Ved/STT_Lab9.git
+[submodule "STT_Lab10"]
+	path = STT_Lab10
+	url = https://github.com/Kishan-Ved/STT_Lab10.git
